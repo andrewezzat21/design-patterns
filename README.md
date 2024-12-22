@@ -11,7 +11,14 @@ Well, Design Patterns are just ways to solve some problems we face when we try t
 can design and create software that is more robust and maintainable
 
 ## Patterns Covered
-
-
 *(This list will grow as I explore more patterns.)*
+
+### Behavioral Patterns
+ - Strategy
+
+### Creational Patterns
+
+### Structural Patterns
+
+
 
