@@ -15,6 +15,7 @@ can design and create software that is more robust and maintainable
 
 ### Behavioral Patterns
  - Strategy
+ - Observer
 
 ### Creational Patterns
 
